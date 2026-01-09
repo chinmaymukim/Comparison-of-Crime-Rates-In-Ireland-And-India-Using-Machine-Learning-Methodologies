@@ -1,7 +1,7 @@
 # Comparison-of-Crime-Rates-In-Ireland-And-India-Using-Machine-Learning-Methodologies
 📌 Project Overview
 
-This repository contains my Master’s Thesis completed as part of the MSc in Data Analytics at National College of Ireland (Oct 2022 – Dec 2022).
+This repository contains my Master’s Thesis completed as part of the MSc in Data Analytics at National College of Ireland.
 
 The project focuses on a comparative analysis of crime rates in Ireland and India using machine learning and time series forecasting methodologies. The aim was to identify key socio-economic drivers of crime and evaluate the effectiveness of different predictive models to support data-driven policy decisions.
 
